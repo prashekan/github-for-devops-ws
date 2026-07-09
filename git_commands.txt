@@ -1,0 +1,11 @@
+git status                                                                                   
+git add .                                                                                    
+git status                                                                                   
+git rm  git-commands.txt                                                                     
+dir                                                                                          
+git restore  git-commands.txt                                                                
+git status                                                                                   
+git --cached  git-commands.txt                                                               
+git status                                                                                   
+git rename                                                                                   
+git -v     
