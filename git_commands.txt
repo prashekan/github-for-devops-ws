@@ -9,3 +9,22 @@ git --cached  git-commands.txt
 git status                                                                                   
 git rename                                                                                   
 git -v     
+git push origin master                                                                                                                   
+get remote set-url                           
+git remote set-url                           
+git remote -v                                                                                                                            
+               
+git remote -v                                                                                                                            
+git push -u origin main                                                                                                                  
+git remote -v                                                                                                                            
+clear                                                                                                                                    
+git remote set-url origin               
+git remote -v                                                                                                                            
+git push origin main                                                                                                                     
+git remote set-url origin 
+git remote -v                                                                                                                            
+git push origin main                                                                                                                     
+clear                                                                                                                                    
+git commit                                                                                                                               
+git push origin master                                                                                                                   
+histor     
